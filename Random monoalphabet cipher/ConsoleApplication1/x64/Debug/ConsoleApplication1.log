@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\riche\source\repos\Intro to Programming\final-project-c++\Random monoalphabet cipher\ConsoleApplication1\ConsoleApplication1.cpp(94,10): warning C4101: 'ch': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\riche\source\repos\Intro to Programming\final-project-c++\Random monoalphabet cipher\x64\Debug\ConsoleApplication1.exe
